@@ -1,8 +1,19 @@
 # Friday Night Funkin: Vs Sonc
 
-A mod created by crusty, and oofie.
+A mod that has you battle the ULTIMATE DESTROYER OF WORLDS, SONC/j
+
+## Credits
+* crusty - mod owner and animator (originally coded the title screen)
+* oofie - coder
+* soulles dx - title screen that i modded and other stuff
 
 this mod is built off of YoshiCrafter Engine.
+
+## How to install
+* Download [YoshiCrafter Engine](yoshiCrafter29/YoshiCrafterEngine).
+* Download this mod.
+* Extract both the Engine and Mod folders.
+* Move the mod to YoshiCrafter Engine's mods folder.
 
 # Todo List (stolen from soules dx,,,)
 
