@@ -2,4 +2,17 @@
 
 A mod created by crusty, and oofie.
 
-this mod is built off of YoshiCrafter Engine, and is currently not done. I'm planning on moving this to Codename Engine soon.
+this mod is built off of YoshiCrafter Engine.
+
+# Todo List (stolen from soules dx,,,)
+
+    BASE MOD
+    -Move to Codename Engine
+
+
+
+
+
+
+
+
