@@ -2,8 +2,6 @@
 
 A mod that has you battle the ULTIMATE DESTROYER OF WORLDS, SONC/j
 
-this mod is built off of YoshiCrafter Engine.
-
 ## Credits
 * crusty - mod owner and animator (originally coded the title screen)
 * oofie - coder
@@ -18,7 +16,7 @@ this mod is built off of YoshiCrafter Engine.
 # Todo List (stolen from soules dx,,,)
 
     BASE MOD
-    -Move to Codename Engine
+    - I don't know at the moment
 
 
 
